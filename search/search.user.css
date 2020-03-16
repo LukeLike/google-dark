@@ -310,6 +310,10 @@
 		color: main-text;
 	}
 
+    .sfbgg {
+ 		height: 70px;
+    }
+
 	/* links */
 		a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu {
 			color: main-link;
